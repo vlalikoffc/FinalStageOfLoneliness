@@ -4,6 +4,13 @@ This project is a fork of [Mineflayer](https://github.com/PrismarineJS/mineflaye
 
 ---
 
+## ⚠️ Legal Notice
+
+All original components of FinalStageOfLoneliness are protected by a custom license (`LICENSE.FSoL`).  
+Commercial use, resale, or redistribution is strictly prohibited without written permission from the author.  
+Violations may result in takedown requests or legal action.
+
+
 ## 🧠 Mineflayer Support
 
 Mineflayer supports a wide range of Minecraft versions, features, and plugins.  
